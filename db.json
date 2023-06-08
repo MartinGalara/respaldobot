@@ -1,0 +1,53 @@
+[
+  {
+    "ref": "ans_b0cbbbd3-a323-423f-b795-b3381a093e77",
+    "keyword": "key_08513d3f-cddc-497c-a6fd-6bd7ee92a5af",
+    "answer": "En este momento el sistema se encuentra en mantenimiento",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "ce8deedc86ad89307ead029ec8abdf02",
+    "from": "5493516454748"
+  },
+  {
+    "ref": "ans_1ce582e0-6ed0-40de-a11a-aae720d1d1e4",
+    "keyword": "ans_b0cbbbd3-a323-423f-b795-b3381a093e77",
+    "answer": "Para generar un ticket por favor envie un correo a soporte@sistemasiges.com.ar",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "eead1400bb987a10547ed23ef0a72dec",
+    "from": "5493516454748"
+  },
+  {
+    "ref": "ans_39875204-19fd-4d0a-8115-c6581b675c53",
+    "keyword": "ans_1ce582e0-6ed0-40de-a11a-aae720d1d1e4",
+    "answer": "Disculpe las molestias",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "e8830f84ed4cc525994e0deaab5d75f6",
+    "from": "5493516454748"
+  }
+]

@@ -60,19 +60,11 @@ const flowDiscord = addKeyword(['discord']).addAnswer(
     [flowSecundario]
 )
 
-const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
-    .addAnswer('🙌 Hola bienvenido a este *Chatbot*')
-    .addAnswer(
-        [
-            'te comparto los siguientes links de interes sobre el proyecto',
-            '👉 *doc* para ver la documentación',
-            '👉 *gracias*  para ver la lista de videos',
-            '👉 *discord* unirte al discord',
-        ],
-        null,
-        null,
-        [flowDocs, flowGracias, flowTuto, flowDiscord]
-    )
+const flowPrincipal = addKeyword(['sigesbot'])
+    .addAnswer('En este momento el sistema se encuentra en mantenimiento')
+    .addAnswer('Para generar un ticket por favor envie un correo a soporte@sistemasiges.com.ar')
+    .addAnswer('Disculpe las molestias')
+
 
 const main = async () => {
     const adapterDB = new JsonFileAdapter()
