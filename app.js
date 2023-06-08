@@ -53,7 +53,7 @@ const flowGracias = addKeyword(['gracias', 'grac']).addAnswer(
     [flowSecundario]
 )
 
-const flowDiscord = addKeyword(['discord']).addAnswer(
+const flowDiscord = addKeyword(['discordasd']).addAnswer(
     ['🤪 Únete al discord', 'https://link.codigoencasa.com/DISCORD', '\n*2* Para siguiente paso.'],
     null,
     null,
